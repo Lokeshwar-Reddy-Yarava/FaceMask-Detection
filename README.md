@@ -72,7 +72,7 @@ The Arduino UNO connects to the ThingSpeak cloud API to fetch the latest mask de
 - If no mask detected (`'n'`): Motor OFF (door closed), LED ON, LCD shows "No mask no entry".
 - If no scan detected: Shows "Please scan yourself".
 
-**Simulation code** is provided in [`hardware/arduino_simulation.ino`](hardware/arduino_simulation.ino).
+**Simulation code** is provided in [`hardware/simulation_code.ino`](hardware/simulation_code.ino).
 
 ---
 
